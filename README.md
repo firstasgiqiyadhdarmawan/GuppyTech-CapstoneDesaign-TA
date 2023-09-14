@@ -1,5 +1,5 @@
 # SmartAerators - GuppyTech
-Repository Tugas Akhir
+Repository Tugas Akhir Capstone Desaign
 
 <br>
 
